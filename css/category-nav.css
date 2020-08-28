@@ -1,0 +1,1 @@
+.red-nav{height:38px;background-color:#d80000;width:100%}.red-nav li:hover,.red-nav li:nth-child(1){background-color:#c90000}.red-nav ul{display:flex;width:1200px;margin:0 auto}.red-nav li{flex:0 0 auto;line-height:38px;font-size:16px;padding:0 24px;font-weight:700}.red-nav li a{color:#fff}.red-nav li:nth-child(1){padding-right:100px;padding-left:20px}

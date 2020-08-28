@@ -1,0 +1,1 @@
+"use strict";$("#submit").click(function(){$.ajax({type:"post",url:"../server/register.php",data:{username:$("#un").val(),password:$("#pw").val()},success:function(e){1==e.code?location.href="./youlu-denglu.html":alert(e.msg)},dataType:"json"})});
